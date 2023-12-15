@@ -1,2 +1,2 @@
 # Portfolio
-I made my portfolio website for Bharat intern.
+I made my portfolio website that contain all the details and work experience.
